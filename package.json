@@ -1,0 +1,16 @@
+{
+  "name": "perso",
+  "version": "1.0.0",
+  "description": "learn Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nono jordan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.3"
+  }
+}
